@@ -1,0 +1,8 @@
+<p>Books</p>
+<ul>@for (item of books; track item.name) {   
+        <li>{{ item | transforming }}</li>
+    }
+@empty {
+<li>There are no items.</li>
+}</ul>
+
