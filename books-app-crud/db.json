@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 45
+    },
+    {
+      "title": "it ends with us",
+      "author": "hibat-allah",
+      "price": 52,
+      "id": "da91"
+    },
+    {
+      "title": "mimi",
+      "author": "momo",
+      "price": 12,
+      "id": "8206"
+    }
+  ]
+}
